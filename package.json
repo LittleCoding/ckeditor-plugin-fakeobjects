@@ -1,5 +1,5 @@
 {
-  "name": "fakeobjects",
+  "name": "@littlecoding/ckeditor-plugin-fakeobjects",
   "description": "CKEditor 4 plugin fakeobjects",
   "version": "4.x",
   "repository": {
