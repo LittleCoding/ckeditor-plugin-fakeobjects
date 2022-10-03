@@ -1,10 +1,10 @@
 {
   "name": "@littlecoding/ckeditor-plugin-fakeobjects",
   "description": "CKEditor 4 plugin fakeobjects",
-  "version": "4.x",
+  "version": "4.20.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor4.git",
+    "url": "https://github.com/ckeditor/ckeditor4.git#4.20.0",
     "directory": "plugins/faceobjects"
   },
   "keywords": [
